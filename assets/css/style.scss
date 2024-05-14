@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header a.button {
+    border: 2px solid white;
+    border-radius: 10px;
+    background-image: none;
+}
